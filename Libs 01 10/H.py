@@ -11,4 +11,3 @@ submission["Pclass"] = [1, 2, 3]
 submission["passengers"] = [a, b, c]
 submission["is_largest"] = [0, 0, 1]
 submission.to_csv("submissionH.csv")
-##
